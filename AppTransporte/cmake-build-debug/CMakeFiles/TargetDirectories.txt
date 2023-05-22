@@ -1,0 +1,3 @@
+C:/Users/catar/CLionProjects/AppTransporte/cmake-build-debug/CMakeFiles/AppTransporte.dir
+C:/Users/catar/CLionProjects/AppTransporte/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/catar/CLionProjects/AppTransporte/cmake-build-debug/CMakeFiles/rebuild_cache.dir
